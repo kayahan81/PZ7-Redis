@@ -41,6 +41,7 @@ PostgreSQL: версия не ниже 14
 Docker: версия не ниже 29
 
 <img width="841" height="232" alt="Установка Git и Go" src="https://github.com/user-attachments/assets/8e01d831-5a7f-4376-8348-9052b240aec9" />
+<img width="860" height="654" alt="image" src="https://github.com/user-attachments/assets/2138e11d-ee33-4f00-9e6b-7cffa60aadd3" />
 
 
 # Команды запуска/сборки
